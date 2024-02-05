@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Pranta\Roadmap\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class RoadmapCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-roadmap';
 
     public $description = 'My command';
 
