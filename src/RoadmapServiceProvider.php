@@ -2,9 +2,9 @@
 
 namespace Pranta\Roadmap;
 
+use Pranta\Roadmap\Commands\RoadmapCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Pranta\Roadmap\Commands\RoadmapCommand;
 
 class RoadmapServiceProvider extends PackageServiceProvider
 {
